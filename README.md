@@ -4,4 +4,4 @@ create Dockerfile1
 
 create docker-compose.yml
 
-___task 6___
+----task 6----
